@@ -57,6 +57,9 @@ All the code for this project is implemented and executed in the **`playground.i
 - **Character-Level Tokenization**: Works directly with Georgian characters for simplicity.
 - **Lightweight and Simple**: No external setup; everything runs within the notebook.
 
----
-
 This project is designed for learning and experimentation. Feel free to tweak and modify the notebook to suit your goals!
+
+---
+## License
+
+This project is licensed under the MIT License - see the `LICENSE` file for details.
